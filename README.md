@@ -33,6 +33,10 @@ The workflow is triggered when:
 1. Clone the repository:
 2. Make changes to `index.html`
 3. Push changes:
+4. The workflow will automatically deploy your site
+
 
 ## Project URL
 https://roadmap.sh/projects/github-actions-deployment-workflow
+
+
